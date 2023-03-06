@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krimax0&theme=dark&fire=EB4940&ring=EBA043)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Krimax0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
