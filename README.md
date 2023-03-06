@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krimax0&theme=dark&fire=EB4940&ring=EBA043)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Krimax0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    <img height=165 src="https://github-readme-stats.vercel.app/api?username=etztrefis&count_private=true&theme=radical&show_icons=true">
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=etztrefis&theme=radical&layout=compact">
+<div/>
