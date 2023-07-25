@@ -13,6 +13,7 @@ https://wakatime.com/@Krimax0
 
 -------
 
+<div align="left">
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
 > General
@@ -142,8 +143,6 @@ https://wakatime.com/@Krimax0
       </a>
       <br>Redux
     </td>
-  </tr> 
-    <tr>
      <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
@@ -168,7 +167,7 @@ https://wakatime.com/@Krimax0
       </a>
       <br>Tailwind
     </td>
-  </tr> 
+   </tr> 
 </table>
 
 > Backend
@@ -259,3 +258,4 @@ https://wakatime.com/@Krimax0
     </td>
   </tr> 
 </table>
+</div>
