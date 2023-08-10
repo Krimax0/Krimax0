@@ -8,7 +8,7 @@
    
 -------
 
-[![Krimax0 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Krimax0)](https://github.com/anuraghazra/github-readme-stats) </br>
+[![Krimax0 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krimax0&theme=codeSTACKr)](https://wakatime.com/@Krimax0) </br>
 https://wakatime.com/@Krimax0
 
 -------
