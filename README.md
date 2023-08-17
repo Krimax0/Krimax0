@@ -88,13 +88,13 @@ https://wakatime.com/@Krimax0
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a>
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a>
         <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
       </a>
       <br>cypress
